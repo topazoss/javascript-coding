@@ -1,0 +1,13 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2015
+  },
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "browser": true,
+    "console": true
+  },
+  "rules": {}
+}
